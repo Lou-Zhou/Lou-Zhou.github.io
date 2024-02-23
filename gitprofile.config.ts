@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Analyzing Travel Fatigue and Performance',
+          title: '!!!!',
           description:
             'Sport Analytics Project looking into whether travel and fatigue had any real effect on team performance in Baseball. Submitted for the 36-hour 2023 Rice Datathon, finishing 2nd overall out of 59 teams.',
           imageUrl:
