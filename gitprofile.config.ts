@@ -84,7 +84,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/Lou-Zhou/Lou-Zhou.github.io/blob/main/Lou_Zhou_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://louzhou1.github.io/Lou_Zhou_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
   ],
