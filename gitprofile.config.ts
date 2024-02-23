@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -33,108 +33,100 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Analyzing Travel Fatigue and Performance',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Sport Analytics Project looking into whether travel and fatigue had any real effect on team performance in Baseball. Submitted for the 36-hour 2023 Rice Datathon, finishing 2nd overall out of 59 teams.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.ibb.co/tP1jhfg/Screenshot-2024-02-22-at-10-04-23-PM.png',
+          link: 'https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance',
         },
         {
-          title: 'Project Name',
+          title: 'Play Value without Penalty',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '2024 NFL Databowl Submission which proposed a new way to gauge tackling penalties in the NFL by accounting for the potential yardage value a play lost for the offense because of the penalty.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://cdn.theathletic.com/app/uploads/2023/11/30133410/GettyImages-1458918271-scaled.jpg',
+          link: 'https://www.kaggle.com/code/louzhou/pvwpbigdatabowl',
+        },
+        {
+          title: 'Breaking the Cycle: Reducing Recidivism in Iowa State Prisons',
+          description:
+            'Team Lead of work which looked to estimate the cost and the root causes of recidivism within the Iowa state prison system. Finished 2nd place out of 227 teams, receiving a $15,000 team prize.',
+          imageUrl:
+            'https://media.istockphoto.com/id/1297394069/vector/prison-or-jail-silhouette-symbol-metal-cage-with-bars-and-lock-crime-justice-or-punishment.jpg?s=612x612&w=0&k=20&c=lQnliaoyoKWpbs1P09Jh07U7WNj5aY-41jYsWGEr2z8=',
+          link: 'https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Lou Zhou',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'lou-zhou',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'lz80@rice.edu',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Rice Athletics',
+      position: 'Technical Team Analyst',
+      from: 'October 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Tennessee Shelby County Election Commission',
+      position: 'Summer Intern',
+      from: 'June 2023',
+      to: 'July 2023',
+    },
+    {
+      company: 'Air Force Research Laboratory',
+      position: 'Summer Intern',
+      from: 'June 2022',
+      to: 'July 2022',
     },
   ],
   certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Rice University',
+      degree: 'Bachelors of Arts in Statistics and Sport Analytics',
+      from: '2023',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Memphis University School',
+      degree: 'High School Degree',
+      from: '2019',
+      to: '2023',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
+    source: 'medium', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
