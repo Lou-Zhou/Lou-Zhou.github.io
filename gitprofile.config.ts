@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Play Value without Penalty',
           description:
-            '2024 NFL Data Bowl Submission which proposed a new way to gauge tackling penalties in the NFL by accounting for the potential yardage value a play lost for the offense because of the penalty.',
+            '2024 NFL Big Data Bowl Submission which proposed a new way to gauge tackling penalties in the NFL by accounting for the potential yardage value a play lost for the offense because of the penalty.',
           imageUrl:
             'https://cdn.theathletic.com/app/uploads/2023/11/30133410/GettyImages-1458918271-scaled.jpg',
           link: 'https://www.kaggle.com/code/louzhou/pvwpbigdatabowl',
