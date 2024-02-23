@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Play Value without Penalty',
           description:
-            '2024 NFL Databowl Submission which proposed a new way to gauge tackling penalties in the NFL by accounting for the potential yardage value a play lost for the offense because of the penalty.',
+            '2024 NFL Data Bowl Submission which proposed a new way to gauge tackling penalties in the NFL by accounting for the potential yardage value a play lost for the offense because of the penalty.',
           imageUrl:
             'https://cdn.theathletic.com/app/uploads/2023/11/30133410/GettyImages-1458918271-scaled.jpg',
           link: 'https://www.kaggle.com/code/louzhou/pvwpbigdatabowl',
@@ -55,6 +55,14 @@ const CONFIG = {
           imageUrl:
             'https://media.istockphoto.com/id/1297394069/vector/prison-or-jail-silhouette-symbol-metal-cage-with-bars-and-lock-crime-justice-or-punishment.jpg?s=612x612&w=0&k=20&c=lQnliaoyoKWpbs1P09Jh07U7WNj5aY-41jYsWGEr2z8=',
           link: 'https://www.soa.org/49c692/globalassets/assets/files/static-pages/research/arch/2023/arch-2023-2-breaking-the-cycle-reducing-recidivism.pdf',
+        },
+        {
+          title: 'Riding into the Future: Evaluating E-Bikes',
+          description:
+            'Research paper that used a Monte Carlo Simulation, Sentiment Analysis, and a Random Forest Algorithm to predict the growth and the factors behind e-bike sales in the United States.',
+          imageUrl:
+            'https://media.istockphoto.com/id/1301878304/vector/fitness-health-gym-trendy-icons-on-circles.jpg?s=612x612&w=0&k=20&c=t2vy2Z7P7V46KcH4RRo7JOExXy2eH-CQ3N_6osprfJI=',
+          link: 'https://louzhou1.github.io/projects/M3%202023.pdf',
         },
       ],
     },
@@ -127,7 +135,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'louzhou6', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
