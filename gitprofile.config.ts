@@ -210,9 +210,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Personal Portfolio of Lou Zhou | Designed by arifszn's <a href="https://github.com/arifszn/gitprofile">GitProfile</a>`,
-
-  enablePWA: true,
+  footer: `Personal Portfolio of Lou Zhou | Designed by arifszn's <a href="https://github.com/arifszn/gitprofile">GitProfile</a>`
 };
 
 export default CONFIG;
