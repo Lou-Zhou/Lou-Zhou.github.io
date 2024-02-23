@@ -210,7 +210,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer:`Personal Portfolio of Lou Zhou | Designed by arifszn's <a 
+  footer:`Personal Portfolio of Lou Zhou, Designed by arifszn's <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
