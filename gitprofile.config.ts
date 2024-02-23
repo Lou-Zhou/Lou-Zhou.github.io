@@ -214,7 +214,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a>`,`
+    >GitProfile</a>`,
 };
 
 export default CONFIG;
