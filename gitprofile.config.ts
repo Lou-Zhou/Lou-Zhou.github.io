@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Analyzing Team Fatigue and Performance',
           description:
-            'Sport Analytics Project looking into whether travel and fatigue had any real effect on team performance in Baseball. Submitted for the 36-hour 2023 Rice Datathon, finishing 2nd overall out of 59 teams.',
+            'Sport Analytics Project looking into whether travel and fatigue had any real effect on team performance in Baseball. Submitted for the 36-hour 2024 Rice Datathon, finishing 2nd overall out of 59 teams.',
           imageUrl:
             'https://i.ibb.co/tP1jhfg/Screenshot-2024-02-22-at-10-04-23-PM.png',
           link: 'https://devpost.com/software/team-coin-flip-travel-fatigue-and-performance',
