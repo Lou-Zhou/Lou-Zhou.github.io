@@ -97,6 +97,7 @@ const CONFIG = {
   skills: [
   ],
   experiences: [
+  
     {
       company: 'Rice Athletics',
       position: 'Technical Team Analyst',
@@ -104,14 +105,20 @@ const CONFIG = {
       to: 'Present',
     },
     {
+      company: 'St. Jude Childrens Research Hospital',
+      position: 'Biostatistics Summer Intern',
+      from: 'June 2024',
+      to: 'July 2024',
+    },
+    {
       company: 'Tennessee Shelby County Election Commission',
-      position: 'Summer Intern',
+      position: 'Software Engineering Summer Intern',
       from: 'June 2023',
       to: 'July 2023',
     },
     {
       company: 'Air Force Research Laboratory',
-      position: 'Summer Intern',
+      position: 'Summer Research Assistant',
       from: 'June 2022',
       to: 'July 2022',
     },
