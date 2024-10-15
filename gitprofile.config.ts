@@ -99,9 +99,9 @@ const CONFIG = {
   experiences: [
   
     {
-      company: 'Rice Athletics',
-      position: 'Technical Team Analyst',
-      from: 'October 2023',
+      company: 'Rice University',
+      position: 'Research and Teaching Assistant',
+      from: 'January 2024',
       to: 'Present',
     },
     {
